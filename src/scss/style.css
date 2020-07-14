@@ -67,45 +67,45 @@ body, html {
 }
 
 .cover-one {
-  background-image: url("../src/img/mus1");
+  background-image: url(../img/mus1.png);
 }
 
 .cover-one:after {
-  background-image: url("../src/img/mus1");
+  background-image: url(../img/mus1.png);
 }
 
 .cover-two {
-  background-image: url("../src/img/mus2");
+  background-image: url(../img/mus2.jpeg);
 }
 
 .cover-two:after {
-  background-image: url("../src/img/mus2");
+  background-image: url(../img/mus2.jpeg);
 }
 
 .cover-three {
-  background-image: url("../src/img/mus3");
+  background-image: url(../img/mus3.png);
 }
 
 .cover-three:after {
-  background-image: url("../src/img/mus3");
+  background-image: url(../img/mus3.png);
   -webkit-transform: rotate(270deg);
           transform: rotate(270deg);
 }
 
 .cover-four {
-  background-image: url("../src/img/mus4");
+  background-image: url(../img/mus4.png);
 }
 
 .cover-four:after {
-  background-image: url("../src/img/mus4");
+  background-image: url(../img/mus4.png);
 }
 
 .cover-five {
-  background-image: url("../src/img/mus1");
+  background-image: url(../img/mus2.jpeg);
 }
 
 .cover-five:after {
-  background-image: url("../src/img/mus1");
+  background-image: url(../img/mus2.jpeg);
 }
 
 .title-wrapper {
